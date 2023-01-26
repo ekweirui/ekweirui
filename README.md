@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ekweirui
-- 👀 I’m interested in learning more about data structures and alogrithms!
-- 🌱 I’m currently learning programming paradigms such as OOP and git/github itself!
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ekweirui, a year 2 Computer Science undergrad at the National University of Singapore (NUS)!
+- 👀 I’m interested in taking up summer internships!
+- 🌱 I’m currently learning many different focus areas (like database, AI, network systems) to figure out what I like!
+- 💞️ I’m looking to collaborate on NUSTalentConnect, LinkedIn etc...
 - 📫 How to reach me ekweirui@gmail.com
 
 <!---
