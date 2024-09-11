@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ekweirui, a year 2 Computer Science undergrad at the National University of Singapore (NUS)!
-- 👀 I’m interested in taking up summer internships!
-- 🌱 I’m currently learning many different focus areas (like database, AI, network systems) to figure out what I like!
-- 💞️ I’m looking to collaborate on NUSTalentConnect, LinkedIn etc...
+- 👋 Hi, I’m @ekweirui, a final year Computer Science undergrad at the National University of Singapore (NUS)!
+- 👀 I’m interested in taking up full-time backend engineering positions!
+- 🌱 I’m currently focused on backend engineering and computer networks!
+- 💞️ I’m looking to collaborate on LinkedIn etc...
 - 📫 How to reach me ekweirui@gmail.com
 
 <!---
